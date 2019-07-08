@@ -38,6 +38,11 @@ packages:
     publish: $all
     proxy: server2
 
+  '@scoped/*':
+    access: $all
+    publish: $all
+    proxy: server2
+
   ## mirror.js
   'test-mirror-*':
     access: $all

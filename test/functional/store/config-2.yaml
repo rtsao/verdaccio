@@ -78,6 +78,10 @@ packages:
     access: $all
     publish: $all
 
+  '@scoped/*':
+    access: $all
+    publish: $all
+
     ## start test auth.js
   'test-auth-regular':
     access: $authenticated
