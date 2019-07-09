@@ -1,5 +1,5 @@
 {
-  "name": "verdaccio",
+  "name": "@rtsao/verdaccio",
   "version": "4.1.0",
   "description": "A lightweight private npm proxy registry",
   "author": {
